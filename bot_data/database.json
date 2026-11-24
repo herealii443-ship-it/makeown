@@ -1,0 +1,42 @@
+{
+  "owners": [
+    8401967510
+  ],
+  "premium": [],
+  "all_users": [],
+  "referrals": {},
+  "referral_codes": {},
+  "temp_premium": {},
+  "temp_owners": {},
+  "daily_claims": {},
+  "referred_by": {},
+  "pending_referrals": {},
+  "banned_users": [],
+  "redeem_keys": {},
+  "stats": {
+    "total_bans": 0,
+    "total_unbans": 0
+  },
+  "settings": {
+    "maintenance": false,
+    "ref_target": 5,
+    "ref_reward_hours": 1,
+    "channels": [
+      {
+        "name": "𝝙𝗟𝝞𝗪 𝗧𝗘𝗖𝗛 𝗧𝗘𝗔𝗠",
+        "id": "@aliwinc",
+        "url": "https://t.me/aliwinc"
+      },
+      {
+        "name": "𝗕𝗨𝗚 𝗕𝗢𝗧 𝗨𝗣𝗗𝗔𝗧𝗘",
+        "id": "@bugupdatezz",
+        "url": "https://t.me/bugupdatezz"
+      },
+      {
+        "name": "𝐁𝐚𝐜𝐤𝐮𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥",
+        "id": "@backuchannelaliw",
+        "url": "https://t.me/backuchannelaliw"
+      }
+    ]
+  }
+}
